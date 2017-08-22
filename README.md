@@ -1,6 +1,6 @@
 # Simple Test Server
 
-This utility is used to create and provide test data. This uses [JSON-Server](https://github.com/typicode/json-server) and [faker](https://github.com/Marak/faker.js).
+This utility is used to create and serve test data. This uses [JSON-Server](https://github.com/typicode/json-server) and [faker](https://github.com/Marak/faker.js).
 
 ## Getting Started
 
