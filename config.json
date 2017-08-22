@@ -1,4 +1,3 @@
 {
-  "numberOfRows": 100,
-  "dataFile": "test-data.json"
+  "numberOfRows": 1000
 }

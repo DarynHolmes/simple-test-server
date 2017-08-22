@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 const config = require('../config.json')
-const generator = require('./generator');
+const generator = require('./generator')
 
-const testFile = __dirname + '/../data/' + config.dataFile
+const testFile = __dirname + '/../data/test-data.json'
 const data = generator();
 
 fs.closeSync(fs.openSync(testFile, 'w'))
