@@ -1,0 +1,16 @@
+{
+  "name": "simple-test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch ./src/test-data.json",
+    "generate": "node ./src/writer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.12.0"
+  }
+}
