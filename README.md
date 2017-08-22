@@ -1,6 +1,6 @@
 # Simple Test Server
 
-This utility is used to create and provide test data. This uses [a JSON-Server](https://github.com/typicode/json-server) and [a faker](https://github.com/Marak/faker.js).
+This utility is used to create and provide test data. This uses [JSON-Server](https://github.com/typicode/json-server) and [faker](https://github.com/Marak/faker.js).
 
 ## Getting Started
 
@@ -29,6 +29,6 @@ To change the number of rows being generated, edit `config.json`
 
 Read:
 
-[a JSON-Server](https://github.com/typicode/json-server)
+[JSON-Server](https://github.com/typicode/json-server)
 
-[a faker](https://github.com/Marak/faker.js)
+[faker](https://github.com/Marak/faker.js)
