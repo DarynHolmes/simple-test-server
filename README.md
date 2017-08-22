@@ -15,6 +15,8 @@ To generate test data use
 ```
 npm run make
 ```
+Please note: the `data` folder is in `.gitignore` therefore any files created in there will be ignored by git.
+
 
 To run the simple REST server use 
 
