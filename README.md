@@ -29,9 +29,8 @@ Pagination is possible e.g. http://localhost:3000/items?_page=1&_limit=10
 
 To change the number of rows being generated, edit `config.json`
 
-## Customising
+## Want to know more?
 
-Read:
 
 [JSON-Server](https://github.com/typicode/json-server)
 
